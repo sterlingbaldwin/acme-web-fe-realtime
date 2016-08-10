@@ -1,0 +1,15 @@
+/env/
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.DS_Store
+*.idea/
+*migrations/
+*.zip
+
+.coverage
+coverage.xml
+cover/
+
+/userdata/
